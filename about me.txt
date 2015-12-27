@@ -3,19 +3,24 @@ I am not comfortable clicking mouse.
 I am not comfortable handling phone calls.
 I am not comfortable in exams.
 I am not comfortable wearing sandals.
+I am not comfortable with cold air more than hot.
 I call myself a craftsman.
 I call myself a technician.
 I call myself an introvert.
 I code daily.
 I code for open source but with very few contributions.
 I code in Java because of eclipse.
+I consider Enrico Caruso as my idol.
+I consider Go Seigen as my idol.
 I cycle.
 I cycle around the city for commute.
 I cycle uphill as a weekly exercise.
 I cycle with friends for fun sometimes.
 I drink alcohol rarely.
 I dislike eating onions.
-I dislike to pay the M$ tax.
+I dislike paying the M$ tax.
+I dislike smoking.
+I dislike working under air conditioning.
 I eat breakfast everyday.
 I eat quickly.
 I enjoy chewy food.
@@ -30,6 +35,7 @@ I enjoy tweaking desktop fonts.
 I go to cinema rarely.
 I graduate from Chinese University of Hong Kong.
 I graduate from Pui Ching Middle School.
+I have issues with my right leg joint.
 I have no idea how to influence others.
 I have no idea of a career.
 I have no idea of acting.
@@ -47,6 +53,7 @@ I live my life with quite a fast pace.
 I own 1 macbook.
 I own 1 sony e3 dual phone.
 I own 4 bicycles.
+I play 2D computer games more than 3D's.
 I play badminton very occasionally.
 I play board game 2-3 times a month.
 I play Go (圍棋).
@@ -55,6 +62,7 @@ I play LEGO long time ago.
 I play Simon Tatham's Portable Puzzle Collection.
 I receive classical vocal lessons from my baritone voice teacher Albert Lim.
 I run 2km to work, 2 times weekly.
+I save money by buying only the necessary.
 I shop on the Internet rarely.
 I sing.
 I sing baritone (at least I should), but I know the tenor arias better than baritone ones.
@@ -64,7 +72,9 @@ I sing solo for 2 times before in public performances.
 I suck as an artist.
 I suck in handling pressure.
 I suck in speaking.
-I use command line to do my work.
+I spell English words quite right and have no need for a spell-checker.
+I type with too much typos.
+I use command line programs to do my work.
 I use keyboard more than mouse.
 I watch TV rarely.
 I wish I can play piano.
