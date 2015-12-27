@@ -1,5 +1,6 @@
 I am a male.
 I am not comfortable clicking mouse.
+I am not comfortable handling phone calls.
 I am not comfortable in exams.
 I am not comfortable wearing sandals.
 I call myself a craftsman.
@@ -47,12 +48,14 @@ I own 1 macbook.
 I own 1 sony e3 dual phone.
 I own 4 bicycles.
 I play badminton very occasionally.
+I play board game 2-3 times a month.
 I play Go (圍棋).
 I play Go in about 8-kyu level.
 I play LEGO long time ago.
 I play Simon Tatham's Portable Puzzle Collection.
 I receive classical vocal lessons from my baritone voice teacher Albert Lim.
 I run 2km to work, 2 times weekly.
+I shop on the Internet rarely.
 I sing.
 I sing baritone (at least I should), but I know the tenor arias better than baritone ones.
 I sing for Hong Kong Philharmonic Chorus.
@@ -64,3 +67,5 @@ I suck in speaking.
 I use command line to do my work.
 I use keyboard more than mouse.
 I watch TV rarely.
+I wish I can play piano.
+I wish I can type.
