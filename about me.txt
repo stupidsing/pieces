@@ -1,9 +1,10 @@
-I am a craftsman.
 I am a male.
-I am a technician.
-I am an introvert.
-I am not comfortable in clicking mouse.
+I am not comfortable clicking mouse.
 I am not comfortable in exams.
+I am not comfortable wearing sandals.
+I call myself a craftsman.
+I call myself a technician.
+I call myself an introvert.
 I code daily.
 I code for open source but with very few contributions.
 I code in Java because of eclipse.
@@ -15,15 +16,25 @@ I dislike eating onions.
 I dislike to pay the M$ tax.
 I eat breakfast everyday.
 I eat quickly.
-I like paper books.
+I go to cinema rarely.
+I graduate from Chinese University of Hong Kong.
+I graduate from Pui Ching Middle School.
+I have no idea how to influence others.
+I have no idea of a career.
+I have no idea of females.
+I have no idea of religions.
+I like chewy food.
 I like functional programming.
 I like public libraries.
 I like keyboards.
 I like keyboard shortcuts.
 I like keyboards that are mechanical.
-I like Linux.
 I like Haskell but almost never developed programs using it.
+I like Linux.
 I like open source.
+I like paper books.
+I like Prolog.
+I like silence.
 I like tweaking coding fonts.
 I like tweaking desktop fonts.
 I live in Hong Kong.
@@ -35,9 +46,9 @@ I play badminton very occasionally.
 I play LEGO long time ago.
 I play Simon Tatham's Portable Puzzle Collection.
 I receive classical vocal lessons from my baritone voice teacher Albert Lim.
-I run 15 minutes to work, 2 times weekly.
+I run 2km to work, 2 times weekly.
 I sing.
-I sing baritone (at least I should), but I remember tenor arias better than baritone ones.
+I sing baritone (at least I should), but I know the tenor arias better than baritone ones.
 I sing for Hong Kong Philharmonic Chorus.
 I sing for Opera Hong Kong chorus.
 I sing solo for 2 times before in public performances.
@@ -46,3 +57,4 @@ I suck in handling pressure.
 I suck in speaking.
 I use command line to do my work.
 I use keyboard more than mouse.
+I watch TV rarely.
