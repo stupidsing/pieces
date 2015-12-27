@@ -12,11 +12,13 @@ I cycle.
 I cycle around the city for commute.
 I cycle uphill as a weekly exercise.
 I cycle with friends for fun sometimes.
+I drink alcohol rarely.
 I dislike eating onions.
 I dislike to pay the M$ tax.
 I eat breakfast everyday.
 I eat quickly.
 I enjoy chewy food.
+I enjoy classical music.
 I enjoy coding compilers.
 I enjoy coding functional programs.
 I enjoy public libraries.
@@ -29,6 +31,7 @@ I graduate from Chinese University of Hong Kong.
 I graduate from Pui Ching Middle School.
 I have no idea how to influence others.
 I have no idea of a career.
+I have no idea of acting.
 I have no idea of females.
 I have no idea of religions.
 I like keyboards.
