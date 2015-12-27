@@ -1,5 +1,9 @@
+I am a craftsman.
 I am a male.
-I born in 11 November 1981.
+I am a technician.
+I am an introvert.
+I am not comfortable in clicking mouse.
+I am not comfortable in exams.
 I code daily.
 I code for open source but with very few contributions.
 I code in Java because of eclipse.
@@ -7,15 +11,18 @@ I cycle.
 I cycle around the city for commute.
 I cycle uphill as a weekly exercise.
 I cycle with friends for fun sometimes.
+I dislike eating onions.
+I dislike to pay the M$ tax.
+I eat breakfast everyday.
 I eat quickly.
-I hate eating onions.
-I hate to pay the M$ tax.
+I like paper books.
 I like functional programming.
+I like public libraries.
 I like keyboards.
 I like keyboard shortcuts.
 I like keyboards that are mechanical.
 I like Linux.
-I like Haskell but almost never develop programs using it.
+I like Haskell but almost never developed programs using it.
 I like open source.
 I like tweaking coding fonts.
 I like tweaking desktop fonts.
@@ -23,15 +30,19 @@ I live in Hong Kong.
 I live my life with quite a fast pace.
 I own 1 macbook.
 I own 1 sony e3 dual phone.
-I own 4 bikes.
+I own 4 bicycles.
+I play badminton very occasionally.
+I play LEGO long time ago.
 I play Simon Tatham's Portable Puzzle Collection.
 I receive classical vocal lessons from my baritone voice teacher Albert Lim.
 I run 15 minutes to work, 2 times weekly.
 I sing.
 I sing baritone (at least I should), but I remember tenor arias better than baritone ones.
 I sing for Hong Kong Philharmonic Chorus.
-I sing for opera hong kong chorus.
-I sing solo for 3 times before in public performances.
-I speak badly.
+I sing for Opera Hong Kong chorus.
+I sing solo for 2 times before in public performances.
+I suck as an artist.
+I suck in handling pressure.
+I suck in speaking.
 I use command line to do my work.
 I use keyboard more than mouse.
