@@ -1,17 +1,20 @@
 I am a male.
+I am less comfortable with cold air than hot.
 I am not comfortable clicking mouse.
 I am not comfortable handling phone calls.
+I am not comfortable in borrowing.
 I am not comfortable in exams.
 I am not comfortable wearing sandals.
-I am not comfortable with cold air more than hot.
 I call myself a craftsman.
 I call myself a technician.
 I call myself an introvert.
 I code daily.
 I code for open source but with very few contributions.
 I code in Java because of eclipse.
+I consider eclipse as a funny computer game.
 I consider Enrico Caruso as my idol.
 I consider Go Seigen as my idol.
+I consider my desk as my cache for documents.
 I cycle.
 I cycle around the city for commute.
 I cycle uphill as a weekly exercise.
@@ -21,15 +24,18 @@ I dislike eating onions.
 I dislike paying the M$ tax.
 I dislike smoking.
 I dislike working under air conditioning.
-I eat breakfast everyday.
+I eat most food in dish.
 I eat quickly.
+I enjoy breakfast everyday.
 I enjoy chewy food.
 I enjoy classical music.
 I enjoy coding compilers.
 I enjoy coding functional programs.
+I enjoy coding using retina screens.
 I enjoy public libraries.
 I enjoy paper books.
 I enjoy silence.
+I enjoy sports.
 I enjoy tweaking coding fonts.
 I enjoy tweaking desktop fonts.
 I go to cinema rarely.
@@ -50,24 +56,31 @@ I like open source.
 I like Prolog.
 I live in Hong Kong.
 I live my life with quite a fast pace.
+I live with my parents.
+I own 1 desktop computer.
 I own 1 macbook.
 I own 1 sony e3 dual phone.
 I own 4 bicycles.
+I own a personal website at http://stupidsing.no-ip.org/.
+I own no cars and no flats.
+I own some other gadgets that I found no use of them.
 I play 2D computer games more than 3D's.
 I play badminton very occasionally.
 I play board game 2-3 times a month.
 I play Go (圍棋).
-I play Go in about 8-kyu level.
+I play Go with strength around 8-kyu.
 I play LEGO long time ago.
 I play Simon Tatham's Portable Puzzle Collection.
 I receive classical vocal lessons from my baritone voice teacher Albert Lim.
 I run 2km to work, 2 times weekly.
+I save money by biking.
 I save money by buying only the necessary.
 I shop on the Internet rarely.
 I sing.
 I sing baritone (at least I should), but I know the tenor arias better than baritone ones.
 I sing for Hong Kong Philharmonic Chorus.
 I sing for Opera Hong Kong chorus.
+I sing in shower.
 I sing solo for 2 times before in public performances.
 I suck as an artist.
 I suck in handling pressure.
