@@ -2,7 +2,7 @@ I am a male.
 I am less comfortable with cold air than hot.
 I am not comfortable clicking mouse.
 I am not comfortable handling phone calls.
-I am not comfortable in borrowing.
+I am not comfortable in borrowing, except from libraries.
 I am not comfortable in exams.
 I am not comfortable wearing sandals.
 I call myself a craftsman.
@@ -24,16 +24,18 @@ I dislike eating onions.
 I dislike paying the M$ tax.
 I dislike smoking.
 I dislike working under air conditioning.
-I eat most food in dish.
+I eat all of the food in dish.
 I eat quickly.
+I feel sick after drinking coffee.
 I enjoy breakfast everyday.
 I enjoy chewy food.
 I enjoy classical music.
 I enjoy coding compilers.
 I enjoy coding functional programs.
 I enjoy coding using retina screens.
-I enjoy public libraries.
 I enjoy paper books.
+I enjoy paper books more than e-books.
+I enjoy reading text more than watching videos.
 I enjoy silence.
 I enjoy sports.
 I enjoy tweaking coding fonts.
@@ -45,6 +47,7 @@ I have issues with my right leg joint.
 I have no idea how to influence others.
 I have no idea of a career.
 I have no idea of acting.
+I have no idea of cooking.
 I have no idea of females.
 I have no idea of religions.
 I like keyboards.
@@ -74,7 +77,7 @@ I play Simon Tatham's Portable Puzzle Collection.
 I receive classical vocal lessons from my baritone voice teacher Albert Lim.
 I run 2km to work, 2 times weekly.
 I save money by biking.
-I save money by buying only the necessary.
+I save money by buying only the necessary - until impulsive buying comes in.
 I shop on the Internet rarely.
 I sing.
 I sing baritone (at least I should), but I know the tenor arias better than baritone ones.
@@ -82,6 +85,9 @@ I sing for Hong Kong Philharmonic Chorus.
 I sing for Opera Hong Kong chorus.
 I sing in shower.
 I sing solo for 2 times before in public performances.
+I spend leisure time in book stores.
+I spend leisure time in computer centres.
+I spend leisure time in public libraries.
 I suck as an artist.
 I suck in handling pressure.
 I suck in speaking.
