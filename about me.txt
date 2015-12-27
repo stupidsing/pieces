@@ -1,0 +1,37 @@
+I am a male.
+I born in 11 November 1981.
+I code daily.
+I code for open source but with very few contributions.
+I code in Java because of eclipse.
+I cycle.
+I cycle around the city for commute.
+I cycle uphill as a weekly exercise.
+I cycle with friends for fun sometimes.
+I eat quickly.
+I hate eating onions.
+I hate to pay the M$ tax.
+I like functional programming.
+I like keyboards.
+I like keyboard shortcuts.
+I like keyboards that are mechanical.
+I like Linux.
+I like Haskell but almost never develop programs using it.
+I like open source.
+I like tweaking coding fonts.
+I like tweaking desktop fonts.
+I live in Hong Kong.
+I live my life with quite a fast pace.
+I own 1 macbook.
+I own 1 sony e3 dual phone.
+I own 4 bikes.
+I play Simon Tatham's Portable Puzzle Collection.
+I receive classical vocal lessons from my baritone voice teacher Albert Lim.
+I run 15 minutes to work, 2 times weekly.
+I sing.
+I sing baritone (at least I should), but I remember tenor arias better than baritone ones.
+I sing for Hong Kong Philharmonic Chorus.
+I sing for opera hong kong chorus.
+I sing solo for 3 times before in public performances.
+I speak badly.
+I use command line to do my work.
+I use keyboard more than mouse.
