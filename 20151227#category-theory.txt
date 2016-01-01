@@ -2,3 +2,5 @@ http://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-prefac
 
 點解⋯⋯點解又會關Abel事？
 佢唔係老早就死左喇咩？
+
+2015-01-01 原來 Abelian 呢個字另有意思，Abelian group 並 Abel 不是發現的。
