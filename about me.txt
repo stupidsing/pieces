@@ -1,9 +1,9 @@
 I am a male.
 I am less comfortable with cold air than hot.
-I am not comfortable clicking mouse.
-I am not comfortable handling phone calls.
-I am not comfortable in borrowing, except from libraries.
-I am not comfortable in exams.
+I am not comfortable with clicking mouse.
+I am not comfortable with handling phone calls.
+I am not comfortable with borrowing - except when from libraries.
+I am not comfortable with exams.
 I am not comfortable wearing sandals.
 I call myself a craftsman.
 I call myself an introvert.
@@ -20,6 +20,7 @@ I cycle uphill as a weekly exercise.
 I cycle with friends for fun sometimes.
 I drink alcohol rarely.
 I dislike eating onions.
+I dislike monopolys.
 I dislike paying the M$ tax.
 I dislike smoking.
 I dislike working under air conditioning.
