@@ -1,0 +1,25 @@
+http://bartoszmilewski.com/2015/04/07/natural-transformations/
+
+...the basic vocabulary of category theory
+
+You may think of objects and categories as nouns; and morphisms, functors, and natural transformations as verbs.
+
+Morphisms connect objects, functors connect categories, natural transformations connect functors.
+
+What appears as an action at one level of abstraction, becomes an object at the next level.
+
+A set of morphisms turns into a function object.
+As an object, it can be a source or a target of another morphism.
+That’s the idea behind higher order functions.
+
+A functor maps objects to objects, so we can use it as a type constructor, or a parametric type.
+
+A functor also maps morphisms, so it is a higher order function — fmap.
+
+There are some simple functors, like Const, product, and coproduct, that can be used to generate a large variety of algebraic data types.
+
+Function types are also functorial, both covariant and contravariant, and can be used to extend algebraic data types.
+
+Functors may be looked upon as objects in the functor category.
+
+As such, they become sources and targets of morphisms: natural transformations. A natural transformation is a special type of polymorphic function.
