@@ -1,0 +1,81 @@
+== Group (G, @)
+
+1) x, y belongs to G => xy  belongs to G (closure)
+2) x(yz) = (xy)z (associative)
+3) there exists e belongs to G such that ex = x = xe for all x belongs to G
+4) for any x belongs to G, there exists x^-1 belongs to G such that xx^-1 = e = x^-1x (inverse)
+
+subgroup: H C G is a subgroup if H is also a group under the same operation.
+
+Example: Z = set of all integers
+2Z = set of all even integers
+(Z, +) is a group and (2Z, +) is a subgroup of (Z, +).
+
+Example: Z can be divided into modulo classes for any positive integer n.
+For any X belongs to {0, 1, 2, ..., n - 1}
+[x] = {y belongs to Z: x == y mod n}
+= {x + kn: k belongs to Z}
+
+Define the set of modulo classes
+{[x]: x=0, 1, ..., n - 1} = G
+G is a finite set and G has n elements.
+We can define + and @ in G as follows:
+[x] + [y] = [x + y]
+[x][y] = [xy]
+
+Then (G, +, @) is a ring.
+note that (G, +) is a group, identity is e = [0] = [n] and inverse of [x] is [-x].
+
+== Field
+
+(F, +, @) is a field if (F, +) is a group and (F\{0}, @) is also a group
+i.e. every non-zero (not the additive identity) has multiplicative inverse.
+(Notation: 0 = additive identity, 1 = multiplicative identity.)
+
+Example:
+For n = positive integer, G = {[x]: x belongs to Z}
+(G, +, @) is only a ring but may not be a field because [x] may not have an inverse.
+
+Actually [x] has an inverse if and only if x and n are relatively prime to each other.
+
+when n = p, a prime number then (G, +, @) is a field because [x] has an inverse for any [x] != [0] (x is not a multiple of n)
+
+Suppose now (F, +, @) is a field.
+So (F, +) is a group (additive)
+and if 0 is the additive identity, (F\{0}, @) is also a group (multiplicative)
+Suppose also F has a finite number of elements, say |F| = q,
+we shall show that
+for any x belongs to F, x != 0 => x^(q - 1) = 1, the multiplicative inverse of F.
+
+Reason:
+We need the so-called Lagrange theorem:
+If H C G is a subgroup of G then |H| is a factor of |G|.
+We first assume this theorem is correct.
+
+Next we consider the following set for x belongs to F (x != 0)
+K = {x^k: k belongs to Z} C F
+(x^0 = 1 by definition)
+K is finite as we assume that |F| = q is finite.
+
+Also it is not difficult to see that K is a subgroup of (F\{0}, @)
+Actually x^0 = 1, inverse of x^k is x^-k.
+(By Lagrange theorem |K| is a factor of |F\{0}| = q - 1)
+
+Now suppose |K| = t
+so K = {1 = x^0, x^1, x^2, ..., x^(t - 1)}
+and x^t must be 1! (why? can be see?)
+
+Now it is a factor of q - 1, HAHA
+so x^(q - 1) = 1 too!
+
+Conclusion:
+===========
+
+(F, +, @) is a field and |F| = q => x^(q - 1) = 1 for all x != 0.
+Now we can prove Fermat's Little Theorem for the previous (G, +, @) with n = p, a prime number
+|G| = p and so for any x belongs to {1, 2, ..., p - 1} we have x^(p - 1) = 1
+i.e. x^(p - 1) == 1 (mod p)
+HAHAHA.
+
+14May2017
+F Y Sing
