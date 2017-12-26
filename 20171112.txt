@@ -22,3 +22,7 @@ Ed Thorp, ???
 Paul Wilmott, Frequently Asked Questions in Quantitative Finance.
 
 Michael Sipser, Introduction to the Theory of Computation.
+
+Fred Schwed Jr., Where are the Customers' Yachts.
+
+Brian Barder, What Diplomats Do: The Life and Work of Diplomats.
